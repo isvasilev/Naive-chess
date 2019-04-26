@@ -5,7 +5,7 @@ Note: suports only search with time controls (no nodes , depths ect.)
 Description of the engine:
 
   1. Board representation: 
-   - array[256] (16x16) ; 
+   - array[256] (16x16); 
    - piece list;
    - pseudo-legal move generation;
   

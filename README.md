@@ -1,5 +1,5 @@
 # Naive-chess
-Chess engine that suports the UCI protocol (test only with Arena).
+Chess engine that suports the UCI protocol (tested only with Arena).
 Note: suports only search with time controls (no nodes , depths ect.) 
 Also currently hash size is not implemented as option 
 but will try to allocate 1024Mb for the hash when started.
